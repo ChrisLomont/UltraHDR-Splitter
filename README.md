@@ -10,7 +10,6 @@ Example images are of two scenes, and most are available in RAW, original Jpeg f
 | Galaxy S24  | Y/Y                | N/Y                 | N/Y  |
 | Galaxy S22  | Y/Y                | N/Y                 | N/Y  |
 | Pixel 6     | Y/Y                | Y/Y                 | Y/Y  |
-| Sony A7R V  | N/N                | Y/Y                 | Y/Y  |
 
 For example, here is the original UltraHDR image from the phone, 
 
