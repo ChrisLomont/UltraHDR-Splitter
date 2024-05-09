@@ -11,7 +11,7 @@ Example images are of two scenes, and most are available in RAW, original Jpeg f
 | Galaxy S22  | Y/Y                | N/Y                 | N/Y  |
 | Pixel 6     | Y/Y                | Y/Y                 | Y/Y  |
 
-For example, here is the original UltraHDR image from the phone, 
+For example, here is the original UltraHDR image from the Pixel 8 Pro, 
 
 ![Pixel8Pro_1_Original](.\HDR\Pixel8Pro_1_Original.jpg)
 
@@ -25,7 +25,7 @@ Here are the SDR and (single channel) gain map images from the phone after being
 
 
 
-and here are the Lightroom processed SDR and (three channel) gain map, split by this tool:
+and here are the Lightroom processed SDR and (three channel) gain map from the RAW version from the phone, split by this tool:
 
 ![Pixel8Pro_1_LR_split_1](.\Output\Pixel8Pro_1_LR_split_1.jpg)
 
