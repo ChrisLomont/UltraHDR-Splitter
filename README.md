@@ -13,7 +13,7 @@ Example images are of two scenes, and most are available in RAW, original Jpeg f
 
 For example, here is the original UltraHDR image from the Pixel 8 Pro, 
 
-![Pixel8Pro_1_Original](.\HDR\Pixel8Pro_1_Original.jpg)
+![Pixel8Pro_1_Original](HDR/Pixel8Pro_1_Original.jpg)
 
 
 
