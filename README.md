@@ -17,20 +17,20 @@ For example, here is the original UltraHDR image from the Pixel 8 Pro,
 
 
 
-Here are the SDR and (single channel) gain map images from the phone after being split by this tool,  ![Pixel8Pro_1_Original_split_1](.\Output\Pixel8Pro_1_Original_split_1.jpg)
+Here are the SDR and (single channel) gain map images from the phone after being split by this tool,  ![Pixel8Pro_1_Original_split_1](Output/Pixel8Pro_1_Original_split_1.jpg)
 
 
 
-![Pixel8Pro_1_Original_split_2](.\Output\Pixel8Pro_1_Original_split_2.jpg)
+![Pixel8Pro_1_Original_split_2](Output/Pixel8Pro_1_Original_split_2.jpg)
 
 
 
 and here are the Lightroom processed SDR and (three channel) gain map from the RAW version from the phone, split by this tool:
 
-![Pixel8Pro_1_LR_split_1](.\Output\Pixel8Pro_1_LR_split_1.jpg)
+![Pixel8Pro_1_LR_split_1](Output/Pixel8Pro_1_LR_split_1.jpg)
 
 
 
 
 
-![Pixel8Pro_1_LR_split_2](.\Output\Pixel8Pro_1_LR_split_2.jpg)
+![Pixel8Pro_1_LR_split_2](Output/Pixel8Pro_1_LR_split_2.jpg)
