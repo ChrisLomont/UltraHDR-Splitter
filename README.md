@@ -46,4 +46,3 @@ Here's the above picture and a second example to show the comparisons
 | Galaxy S24 Original                   | ![GalaxyS24_2_Original](HDR/GalaxyS24_2_Original.jpg) | ![GalaxyS24_2_Original_split_1](Output/GalaxyS24_2_Original_split_1.jpg) | ![GalaxyS24_2_Original_split_2](Output/GalaxyS24_2_Original_split_2.jpg) |
 | Galaxy S24 via RAW through Lightroom  |                                                       | ![GalaxyS24_2_LR_split_1](Output/GalaxyS24_2_LR_split_1.jpg) | ![GalaxyS24_2_LR_split_2](Output/GalaxyS24_2_LR_split_2.jpg) |
 
-s
