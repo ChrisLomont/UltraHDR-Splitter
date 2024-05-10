@@ -1,0 +1,9 @@
+Version       : 1
+BaseRenditionIsHDR: false
+GainMapMin    : 0
+GainMapMax    : 2.85347, 2.81676, 3.33731
+Gamma         : 1.11527, 0.315504, 0.283009
+OffsetSDR     : 0.015625
+OffsetHDR     : 0.015625
+HDRCapacityMin: 0
+HDRCapacityMax: 4

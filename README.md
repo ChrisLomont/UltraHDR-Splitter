@@ -34,3 +34,16 @@ and here are the Lightroom processed SDR and (three channel) gain map from the R
 
 
 ![Pixel8Pro_1_LR_split_2](Output/Pixel8Pro_1_LR_split_2.jpg)
+
+
+
+Here's the above picture and a second example to show the comparisons
+
+|                                       |                                                       |                                                              |                                                              |
+| ------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Pixel 8 Pro original                  | ![Pixel8Pro_1_Original](HDR/Pixel8Pro_1_Original.jpg) | ![Pixel8Pro_1_Original_split_1](Output/Pixel8Pro_1_Original_split_1.jpg) | ![Pixel8Pro_1_Original_split_2](Output/Pixel8Pro_1_Original_split_2.jpg) |
+| Pixel 8 Pro via RAW through Lightroom |                                                       | ![Pixel8Pro_1_LR_split_1](Output/Pixel8Pro_1_LR_split_1.jpg) | ![Pixel8Pro_1_LR_split_2](Output/Pixel8Pro_1_LR_split_2.jpg) |
+| Galaxy S24 Original                   | ![GalaxyS24_2_Original](HDR/GalaxyS24_2_Original.jpg) | ![GalaxyS24_2_Original_split_1](Output/GalaxyS24_2_Original_split_1.jpg) | ![GalaxyS24_2_Original_split_2](Output/GalaxyS24_2_Original_split_2.jpg) |
+| Galaxy S24 via RAW through Lightroom  |                                                       | ![GalaxyS24_2_LR_split_1](Output/GalaxyS24_2_LR_split_1.jpg) | ![GalaxyS24_2_LR_split_2](Output/GalaxyS24_2_LR_split_2.jpg) |
+
+s
